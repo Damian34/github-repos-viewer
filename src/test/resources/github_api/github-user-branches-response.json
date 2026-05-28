@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dev",
+    "commit": {
+      "sha": "dd9b5221e1e8e6a043676d323abef0355c040b47",
+      "url": "https://api.github.com/repos/Damian34/github-repo-viewer/commits/dd9b5221e1e8e6a043676d323abef0355c040b47"
+    },
+    "protected": false
+  },
+  {
+    "name": "main",
+    "commit": {
+      "sha": "d33c8e20a98358d984cdeb84fd058ec4e2cc9dab",
+      "url": "https://api.github.com/repos/Damian34/github-repo-viewer/commits/d33c8e20a98358d984cdeb84fd058ec4e2cc9dab"
+    },
+    "protected": false
+  }
+]
